@@ -130,7 +130,7 @@ function App() {
         const formData = new FormData();
         formData.append('image', selectedFile);
 
-        response = await axios.post('http://localhost:5000/api/find-similar', formData, {
+        response = await axios.post('https://visual-product-matcher-g3d6.onrender.com', formData, {
           headers: {
             'Content-Type': 'multipart/form-data',
           },
