@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Essence Mascara Lash Princess",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 2,
+    "name": "Eyeshadow Palette with Mirror",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 3,
+    "name": "Powder Canister",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 4,
+    "name": "Red Lipstick",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 5,
+    "name": "Red Nail Polish",
+    "category": "beauty",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 6,
+    "name": "Calvin Klein CK One",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/6/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 7,
+    "name": "Chanel Coco Noir Eau De",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 8,
+    "name": "Dior J'adore",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 9,
+    "name": "Dolce Shine Eau de",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 10,
+    "name": "Gucci Bloom Eau de",
+    "category": "fragrances",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 11,
+    "name": "Annibale Colombo Bed",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "name": "Annibale Colombo Sofa",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 13,
+    "name": "Bedside Table African Cherry",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/13/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 14,
+    "name": "Knoll Saarinen Executive Conference Chair",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 15,
+    "name": "Wooden Bathroom Sink With Mirror",
+    "category": "furniture",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 16,
+    "name": "Apple",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 17,
+    "name": "Beef Steak",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 18,
+    "name": "Cat Food",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 19,
+    "name": "Chicken Meat",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 20,
+    "name": "Cooking Oil",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 21,
+    "name": "Cucumber",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/21/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 22,
+    "name": "Dog Food",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 23,
+    "name": "Eggs",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 24,
+    "name": "Fish",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 25,
+    "name": "Green Bell Pepper",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 26,
+    "name": "Green Chili Pepper",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 27,
+    "name": "Honey Jar",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/27/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 28,
+    "name": "Ice Cream",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 29,
+    "name": "Juice",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/29/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 30,
+    "name": "Kiwi",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 31,
+    "name": "Lemon",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/31/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 32,
+    "name": "Milk",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/32/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 33,
+    "name": "Mulberry",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/33/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 34,
+    "name": "Nescafe Coffee",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/34/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 35,
+    "name": "Potatoes",
+    "category": "groceries",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/35/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 36,
+    "name": "American Football",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/36/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 37,
+    "name": "Badminton Shuttlecock",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/37/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 38,
+    "name": "Baseball",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/38/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 39,
+    "name": "Basketball",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/39/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 40,
+    "name": "Bowling Ball",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/40/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 41,
+    "name": "Boxing Gloves",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/41/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 42,
+    "name": "Cricket Ball",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/42/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 43,
+    "name": "Cricket Bat",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/43/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 44,
+    "name": "Dumbbell",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/44/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 45,
+    "name": "Football",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/45/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 46,
+    "name": "Golf Ball",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/46/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 47,
+    "name": "Golf Club",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/47/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 48,
+    "name": "Ski Goggles",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/48/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 49,
+    "name": "Snowboard",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/49/thumbnail.jpg",
+    "tags": []
+  },
+  {
+    "id": 50,
+    "name": "Soccer Ball",
+    "category": "sports",
+    "imageUrl": "https://cdn.dummyjson.com/product-images/50/thumbnail.jpg",
+    "tags": []
+  }
+]
