@@ -24,7 +24,7 @@ const upload = multer({ storage: multer.memoryStorage() });
 // CRITICAL: This loads the data file with the AI-generated tags.
 let productsDB = [];
 try {
-  productsDB = JSON.parse(fs.readFileSync("products_with_tags.json", "utf-8"));
+  productsDB = JSON.parse(fs.readFileSync("products.json", "utf-8"));
 } catch (err) {
   console.error("\n--- ERROR: DATA FILE MISSING ---");
   console.error("Could not load 'products_with_tags.json'.");
